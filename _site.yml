@@ -1,0 +1,12 @@
+name: "MCMCglmm-course-notes"
+output_dir: "docs"
+navbar:
+  title: "MCMCglmm-course-notes"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "Speed and Distance"
+    href: Practice.html
+output:
+  html_document:
+    theme: cosmo
