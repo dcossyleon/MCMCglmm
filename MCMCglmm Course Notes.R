@@ -2,6 +2,8 @@
 
 library(MCMCpack)
 
+#Simulate 5 data points
+
 #Ndata <- data.frame(y = rnorm(5, mean = 0, sd =sqrt(1)))
 Ndata <- data.frame(y = c(-0.1388900,  1.1998129, -0.7477224, -0.5752482, -0.2635815))
 Ndata$y
