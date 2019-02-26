@@ -4,7 +4,6 @@ author: "Desiree De Leon"
 date: "2/24/2019"
 ---
 
-
 ```{r cars}
 library(MCMCpack)
 

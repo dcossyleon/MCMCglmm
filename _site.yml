@@ -1,7 +1,7 @@
 name: "MCMCglmm-course-notes"
 output_dir: "docs"
 navbar:
-  title: "MCMCglmm-course-notes"
+  title: "Git hub testing"
   left:
   - text: "Home"
     href: index.html
